@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>In Sem Skill Exam Question Link</title>
+</head>
+<body>
+  <header>
+    <h2> Exciting News! The KLCDOE LMS App is Live</h2>
+    <a href="https://play.google.com/store/apps/details?id=com.dilipkumarchepuri.klcdoe&pli=1">Get it on Google Play</a>
+    <hr>
+    <nav>
+      <a href="https://lms.kluniversity.in/">Home</a> |
+      <a href="https://lms.kluniversity.in/my/index.php">Dashboard</a> |
+      <a href="https://lms.kluniversity.in/my/courses.php">My Courses</a> |
+      <a href="#">Help</a>
+    </nav>
+  </header>
+
+  <section>
+    <h3>FRONT END DEVELOPMENT FRAMEWORKS 2025-2026 ODD SEMESTER</h3>
+    <h4>In Sem Skill Exam Question Link</h4>
+    <p><a href="https://lms.kluniversity.in/mod/quiz/view.php?id=104707">Back</a></p>
+    <p><strong>Time left:</strong> 0:57:43</p>
+    <hr>
+    <form>
+      <h4>Question 1</h4>
+      <p>Not yet answered</p>
+      <fieldset>
+        <legend>Question text</legend>
+        <label><input type="radio" name="q1" value="True">True</label>
+        <label><input type="radio" name="q1" value="False">False</label>
+      </fieldset>
+      <button type="submit">Finish attempt ...</button>
+    </form>
+    <hr>
+    <nav>
+      <label for="jump-menu">Jump to...</label>
+      <select id="jump-menu">
+        <option selected>Jump to...</option>
+        <option>Announcements</option>
+        <option>Workbook</option>
+        <option>SDP Student Teams with Team Leads</option>
+        <option>24SDCS01E-FEDF-S202 || SDP Team Formation Link</option>
+        <option>Exercise 1: Project Initialization and First Commit</option>
+        <option>Exercise 2: Branching and Feature Integration</option>
+      </select>
+    </nav>
+    <p>
+      <a href="https://lms.kluniversity.in/mod/resource/view.php?id=99357&forceview=1">Workbook ►</a>
+    </p>
+    <hr>
+    <nav>
+      <a href="https://lms.kluniversity.in/mod/quiz/attempt.php?attempt=2709544&cmid=104707#top">BACK</a>
+    </nav>
+    <footer>
+      <a href="https://www.kluniversity.in">www.kluniversity.in</a> |
+      <a href="mailto:moodle@kluniversity.in">moodle@kluniversity.in</a>
+    </footer>
+  </section>
+</body>
+</html>
